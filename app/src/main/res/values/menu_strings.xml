@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_start_new_game">Start a new game</string>
+    <string name="action_take_a_picture">Take a picture</string>
+    <string name="action_view_categories">View categories</string>
+    <string name="action_stop">Stop</string>
+</resources>
